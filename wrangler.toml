@@ -1,7 +1,7 @@
 name = "image-upload-worker"
 type = "javascript"
 
-account_id = "YOUR_ACCOUNT_ID"
+account_id = "05155e8a4c89ed88082182aed190fec7"
 workers_dev = true
 compatibility_date = "2025-01-07"
 
