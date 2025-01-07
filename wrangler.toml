@@ -1,0 +1,11 @@
+name = "image-upload-worker"
+type = "javascript"
+
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2025-01-07"
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "image-uploads"
+preview_bucket_name = "image-uploads-preview"
